@@ -1,5 +1,5 @@
 //Apuntes sobre Javascript
-//Versión ALPHA-1.0
+//Versión ALPHA
 //Llamadas anidadas
 //Suponiendo el método
 function logBase(b){
