@@ -1,3 +1,2 @@
 # Messing-with-Javascript
-JS notes and tests from my university classes. Includes random stuff
-Written in Spanish
+JS notes and tests. Includes random stuff, documents and explainations about the behaviour of several JS, NodeJS, ZeroMQ... mechanisms.
